@@ -1,6 +1,6 @@
 # projeto-urna
 Cópia de Urna Eletrônica. 
-  {
+    {
       titulo: 'VEREADOR',
           {
               numero: '38111',
@@ -11,7 +11,7 @@ Cópia de Urna Eletrônica.
               nome: 'Pato Donald', 
           }
       
-  },
+  }
   {
       titulo: 'PREFEITO',
       
